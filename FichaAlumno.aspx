@@ -43,7 +43,7 @@
     <asp:Panel ID="Panel1" runat="server">
     </asp:Panel>
 <asp:Panel ID="pnlDatosAlumnos" runat="server">
-    Ingrsar datos de nuevo ALUMNO:</asp:Panel>
+    <h3>Ingrsar datos de nuevo ALUMNO:</h3></asp:Panel>
     <table style="width: 100%;">
         <tr>
             <td class="style2">

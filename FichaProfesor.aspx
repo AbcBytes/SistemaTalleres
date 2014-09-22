@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <br />
     <asp:Panel ID="pnlDatosProfesor" runat="server">
-        Ingresar Datos de Nuevo Profesor:&nbsp;<br />
+        <h3>Ingresar Datos de Nuevo Profesor:&nbsp;</h3><br />
         <br />
         <table style="width: 55%;">
             <tr>

@@ -7,7 +7,7 @@
     <table style="width:100%;">
         <tr>
             <td>
-    <asp:Label ID="lblIdentificadorTaller" runat="server" BackColor="White" 
+    <asp:Label ID="lblIdentificadorTaller" runat="server"  
         Text="Identificador Taller"></asp:Label>
             </td>
             <td>
@@ -18,7 +18,7 @@
         </tr>
         <tr>
             <td>
-    <asp:Label ID="lblNombreTaller" runat="server" BackColor="White" 
+    <asp:Label ID="lblNombreTaller" runat="server"  
         Text="Nombre Taller"></asp:Label>
             </td>
             <td>
@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <td>
-    <asp:Label ID="lbldiaTaller" runat="server" BackColor="White" 
+    <asp:Label ID="lbldiaTaller" runat="server"  
         Text="Horario Taller (Dia - Hora)"></asp:Label>
             </td>
             <td>
@@ -41,7 +41,7 @@
         </tr>
         <tr>
             <td>
-    <asp:Label ID="lblDisponibilidadTaller" runat="server" BackColor="White" 
+    <asp:Label ID="lblDisponibilidadTaller" runat="server"  
         Text="Disponibilidad Taller"></asp:Label>
             </td>
             <td>
@@ -62,7 +62,7 @@
         </tr>
         <tr>
             <td>
-        <asp:Label ID="lblDescripcionTaller" runat="server" BackColor="White" 
+        <asp:Label ID="lblDescripcionTaller" runat="server"  
             Text="Descripcion del Taller"></asp:Label>
             </td>
             <td>

@@ -10,7 +10,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <table style="width: 100%;">
         <tr>
-            <td class="auto-style1">Inscripcion de Alumnos</td>
+            <td ><h3>Inscripcion de Alumnos</h3></td>
             <td class="auto-style1"></td>
             <td class="auto-style1"></td>
         </tr>

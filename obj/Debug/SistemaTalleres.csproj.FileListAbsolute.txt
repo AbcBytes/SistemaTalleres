@@ -7,3 +7,12 @@ C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\Sistema
 C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.csprojResolveAssemblyReference.cache
 C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.dll
 C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\bin\Biblioteca.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\bin\Dao.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\bin\Biblioteca.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\bin\Dao.pdb
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.csprojResolveAssemblyReference.cache
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.dll
+C:\Users\CSC\Dropbox\DUOC Carlos\4to Semestre\Desarrollo en .net\Proyecto .NET\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.pdb

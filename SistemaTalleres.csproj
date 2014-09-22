@@ -55,6 +55,7 @@
     <Content Include="FichaAlumno.aspx" />
     <Content Include="FichaProfesor.aspx" />
     <Content Include="FichaTaller.aspx" />
+    <Content Include="index.html" />
     <Content Include="Inicio.aspx" />
     <Content Include="Inscribir.aspx" />
     <Content Include="InscribirAlumno.aspx" />

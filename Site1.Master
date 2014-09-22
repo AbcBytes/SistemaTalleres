@@ -3,7 +3,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
+ 
 <head runat="server">
+ <link href="./resources/templatemo_style.css" rel="stylesheet" type="text/css" />
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -12,7 +14,7 @@
     <form id="form1" runat="server">
     <div>
         <asp:Panel ID="Panel3" runat="server" style="text-align: center">
-            SISTEMA TALLERES</asp:Panel>
+            <h3>SISTEMA TALLERES</h3></asp:Panel>
         <asp:Panel ID="Panel1" runat="server">
             <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1">
             </asp:Menu>
