@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="SistemaTalleres.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Panel ID="Panel3" runat="server" style="text-align: center">
+            SISTEMA TALLERES</asp:Panel>
+        <asp:Panel ID="Panel1" runat="server">
+            <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1">
+            </asp:Menu>
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+            </asp:SiteMapPath>
+            <br />
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            <br />
+        </asp:Panel>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+        <asp:Panel ID="Panel2" runat="server" style="text-align: center">
+            <br />
+            <br />
+        </asp:Panel>
+
+    </div>
+    </form>
+</body>
+</html>

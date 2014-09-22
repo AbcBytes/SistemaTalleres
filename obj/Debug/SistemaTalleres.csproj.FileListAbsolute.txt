@@ -1,0 +1,9 @@
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.dll
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\bin\SistemaTalleres.pdb
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\bin\Biblioteca.dll
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\bin\Dao.dll
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\bin\Biblioteca.pdb
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\bin\Dao.pdb
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.csprojResolveAssemblyReference.cache
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.dll
+C:\Users\Consultor\Documents\Visual Studio 2010\Projects\SistemaTalleres\SistemaTalleres\obj\Debug\SistemaTalleres.pdb
