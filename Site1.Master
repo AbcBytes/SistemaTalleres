@@ -9,17 +9,80 @@
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    
+      <style type="text/css">
+        ul
+        {
+            list-style: none;
+            padding: 0px;
+            margin: 0px;
+        }
+        ul li
+        {
+            display: block;
+            position: relative;
+            float: left;
+            border: 1px solid #000;
+        }
+        li ul
+        {
+            display: none;
+        }
+        ul li a
+        {
+            display: block;
+            background: green;
+            padding: 5px 10px 5px 10px;
+            text-decoration: none;
+            white-space: nowrap;
+            color: #fff;
+        }
+        ul li a:hover
+        {
+            background: black;
+        }
+        li:hover ul
+        {
+            display: block;
+            position: absolute;
+        }
+        li:hover li
+        {
+            float: none;
+        }
+        li:hover a
+        {
+            background: green;
+        }
+        li:hover li a:hover
+        {
+            background: #000;
+        }
+        #drop-nav li ul li
+        {
+            border-top: 0px;
+        }
+    </style>5
+
 </head>
 <body>
     <form id="form1" runat="server">
     <div>
         <asp:Panel ID="Panel3" runat="server" style="text-align: center">
             <h3>SISTEMA TALLERES</h3></asp:Panel>
+
         <asp:Panel ID="Panel1" runat="server">
+        <div id="header">
+            <nav> <!-- Aqui estamos iniciando la nueva etiqueta nav -->
+                <ul class="nav"
             <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1">
             </asp:Menu>
-            <asp:SiteMapPath ID="SiteMapPath1" runat="server">
-            </asp:SiteMapPath>
+    </nav>
+</div>
+            <br />
+            <asp:Menu ID="Menu2" runat="server" DataSourceID="SiteMapDataSource1" 
+                Orientation="Horizontal">
+            </asp:Menu>
             <br />
             <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
             <br />

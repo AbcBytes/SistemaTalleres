@@ -58,13 +58,13 @@ namespace SistemaTalleres {
         protected global::System.Web.UI.WebControls.Menu Menu1;
         
         /// <summary>
-        /// Control SiteMapPath1.
+        /// Control Menu2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.SiteMapPath SiteMapPath1;
+        protected global::System.Web.UI.WebControls.Menu Menu2;
         
         /// <summary>
         /// Control SiteMapDataSource1.

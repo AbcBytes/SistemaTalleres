@@ -14,14 +14,7 @@
     </siteMapNode>
 
 
-    <siteMapNode url="Mantenedores.aspx" title="Mantenedores">
-
-      <siteMapNode url="MantenedorTaller.aspx" title="Mantenedor Taller"/>
-      <siteMapNode url="MantenedorProfesor.aspx" title="Mantenedor Profesor"/>
-      <siteMapNode url="MantenedorAlumno.aspx" title="Mantenedor Alumno"/>
-
-    </siteMapNode>
-
+    
     <siteMapNode url="" title="Inscripciones">
 
       <siteMapNode url="Inscribir.aspx" title="Inscripciones"/>
